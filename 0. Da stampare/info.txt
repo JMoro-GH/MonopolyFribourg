@@ -1,9 +1,8 @@
 
 Tabellone: 2 pagine
+Carte: 8 pagine
 Soldi: 40 pagine
 
 Il tabellone è composto da due file CHE VANNO STAMPATI IN FORMATO A3.
-
-Le carte vanno stampate su fogli con una grammatura maggiore (x es 160g/m2).
-
+Le carte vanno stampate fronte/retro.
 I soldi vanno stampati solo una volta.
